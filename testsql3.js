@@ -57,7 +57,7 @@ testObj3.forEach(function (element) {
         var type = element.data.type;
         var rate = element.data.rate;
         console.log("DELETE FROM orderBook "+
-	                "WHERE type = '"+type+"' AND rate = '"+rate+"';");
+	                "WHERE currencyPair = '"+currencyPair+"' AND type = '"+type+"' AND rate = '"+rate+"';");
 
     }
 });
