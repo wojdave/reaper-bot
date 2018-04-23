@@ -1,9 +1,11 @@
-# reaper3-bot
+# reaper-bot
 
-------------------------------------------------------------------
-[REAPER] HARVESTBOT: havesting TICKER DATA since $(date +%s)
-[ currencyPair, last, lowestAsk, highestBid, percentChange, baseVolume, quoteVolume, isFrozen, 24hrHigh, 24hrLow ]
-------------------------------------------------------------------
+```
+#------------------------------------------------------------------
+#[REAPER] HARVESTBOT: havesting TICKER DATA since $(date +%s)
+#[ currencyPair, last, lowestAsk, highestBid, percentChange, baseVolume, quoteVolume, isFrozen, 24hrHigh, 24hrLow ]
+#------------------------------------------------------------------
+```
 
 ## USAGE:
 
