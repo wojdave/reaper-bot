@@ -23,7 +23,7 @@ stdbuf -oL -eL python3.5 reaper3.py | tee /dev/tty | sudo mysql -v -u root -ppas
 ```
 ## CONFIG:
 
-Test mysql configuration prior to execution
+Test mysql -- database parameters must be configured prior to execution
 ```
 js testsql3.js | sudo -u root -ppassword mysql bot
 ```
