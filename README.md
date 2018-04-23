@@ -13,7 +13,7 @@ Print mysql INSERTS INTO terminal
 ```
 python3.5 reaper3.py 
 ```
-Log mqsql INSERTS INTO console.log
+Log mysql INSERTS INTO console.log
 ```
 sudo stdbuf -oL -eL python3.5 reaper3.py | tee /dev/tty > console.log
 ```
