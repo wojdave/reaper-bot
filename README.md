@@ -1,6 +1,9 @@
-# reaper3
+# reaper3-bot
 
-This IS THE combo-strike variation scrabble bot.
+------------------------------------------------------------------
+[REAPER] HARVESTBOT: havesting TICKER DATA since $(date +%s)
+[ currencyPair, last, lowestAsk, highestBid, percentChange, baseVolume, quoteVolume, isFrozen, 24hrHigh, 24hrLow ]
+------------------------------------------------------------------
 
 ## USAGE:
 
