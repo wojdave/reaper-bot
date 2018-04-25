@@ -1,8 +1,8 @@
 # reaper-bot
 
-```
 havesting TICKER DATA since $(date +%s)
 
+```
 [currencyPair, last, lowestAsk, highestBid, percentChange, baseVolume, quoteVolume, isFrozen, 24hrHigh, 24hrLow]
 ```
 
