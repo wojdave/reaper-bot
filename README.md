@@ -18,7 +18,7 @@ sudo stdbuf -oL -eL python3.5 reaper3.py | tee /dev/tty > console.log
 ```
 Pipe mysql INSERTS INTO mysql db -- database parameters must be configured prior to execution
 ```
-stdbuf -oL -eL python3.5 reaper3.py | tee /dev/tty | sudo mysql -v -u root -ppassword bot
+stdbuf -oL -eL python3.5 reaper3.py | sudo mysql -v -u root -ppassword bot
 ```
 ## CONFIG:
 
